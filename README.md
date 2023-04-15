@@ -19,7 +19,7 @@
 
 [배포 사이트](https://www.camperrank.shop)
 <br/><br/>
-[데모 영상](https://youtu.be/NMlnvDDiB94)
+[데모 영상](https://youtu.be/ZRKtNIRs8UI)
 
 <br/>
 
